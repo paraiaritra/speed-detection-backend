@@ -1,0 +1,55 @@
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Bytecode / caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# IDEs / editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test / coverage
+.coverage
+.coverage.*
+htmlcov/
+.pytest_cache/
+
+# Logs
+*.log
+
+# Static / output video files (if you generate processed videos)
+static/
+outputs/
+*.mp4
+*.avi
+
+# Model weights & large binaries — DO NOT commit
+*.pt
+*.pth
+models/
+weights/
+
+# Secrets / env files
+.env
+.env.*
+
+# Node / frontend (if present)
+node_modules/
+dist/

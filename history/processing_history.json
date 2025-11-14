@@ -1,0 +1,1743 @@
+[
+  {
+    "id": "44e6833f-2d75-4f9f-8405-6ac2012c3df5",
+    "timestamp": "2025-11-14T01:03:41.525426",
+    "user": "admin",
+    "original_filename": "WhatsApp_Video_2025-09-07_at_21.34.40_6b55cab1.mp4",
+    "input_video_path": "uploads\\5b6e033e5d1f4e8687668842390f5a15_WhatsApp_Video_2025-09-07_at_21.34.40_6b55cab1.mp4",
+    "output_video_path": "uploads\\processed_20251114_010038.mp4",
+    "download_name": "processed_20251114_010038.mp4",
+    "overspeed_limit": 60.0,
+    "distance_meters": 20.0,
+    "total_vehicles": 31,
+    "total_violations": 6,
+    "overspeed_summary": [
+      {
+        "id": 6,
+        "label": "car",
+        "speed": 75.0,
+        "frame": 49,
+        "overspeed": true
+      },
+      {
+        "id": 9,
+        "label": "car",
+        "speed": 62.07,
+        "frame": 89,
+        "overspeed": true
+      },
+      {
+        "id": 12,
+        "label": "car",
+        "speed": 64.29,
+        "frame": 175,
+        "overspeed": true
+      },
+      {
+        "id": 14,
+        "label": "car",
+        "speed": 66.67,
+        "frame": 212,
+        "overspeed": true
+      },
+      {
+        "id": 39,
+        "label": "car",
+        "speed": 72.0,
+        "frame": 709,
+        "overspeed": true
+      },
+      {
+        "id": 46,
+        "label": "car",
+        "speed": 64.29,
+        "frame": 776,
+        "overspeed": true
+      }
+    ],
+    "all_logs": [
+      {
+        "id": 6,
+        "label": "car",
+        "speed": 75.0,
+        "frame": 49,
+        "overspeed": true
+      },
+      {
+        "id": 9,
+        "label": "car",
+        "speed": 62.07,
+        "frame": 89,
+        "overspeed": true
+      },
+      {
+        "id": 12,
+        "label": "car",
+        "speed": 64.29,
+        "frame": 175,
+        "overspeed": true
+      },
+      {
+        "id": 13,
+        "label": "car",
+        "speed": 51.43,
+        "frame": 194,
+        "overspeed": false
+      },
+      {
+        "id": 14,
+        "label": "car",
+        "speed": 66.67,
+        "frame": 212,
+        "overspeed": true
+      },
+      {
+        "id": 16,
+        "label": "car",
+        "speed": 48.65,
+        "frame": 307,
+        "overspeed": false
+      },
+      {
+        "id": 17,
+        "label": "car",
+        "speed": 42.86,
+        "frame": 361,
+        "overspeed": false
+      },
+      {
+        "id": 7,
+        "label": "car",
+        "speed": 5.19,
+        "frame": 399,
+        "overspeed": false
+      },
+      {
+        "id": 18,
+        "label": "bus",
+        "speed": 26.09,
+        "frame": 403,
+        "overspeed": false
+      },
+      {
+        "id": 11,
+        "label": "car",
+        "speed": 35.29,
+        "frame": 454,
+        "overspeed": false
+      },
+      {
+        "id": 20,
+        "label": "car",
+        "speed": 47.37,
+        "frame": 502,
+        "overspeed": false
+      },
+      {
+        "id": 22,
+        "label": "car",
+        "speed": 40.0,
+        "frame": 533,
+        "overspeed": false
+      },
+      {
+        "id": 23,
+        "label": "car",
+        "speed": 39.13,
+        "frame": 543,
+        "overspeed": false
+      },
+      {
+        "id": 25,
+        "label": "car",
+        "speed": 40.91,
+        "frame": 565,
+        "overspeed": false
+      },
+      {
+        "id": 29,
+        "label": "car",
+        "speed": 41.86,
+        "frame": 583,
+        "overspeed": false
+      },
+      {
+        "id": 32,
+        "label": "car",
+        "speed": 35.29,
+        "frame": 668,
+        "overspeed": false
+      },
+      {
+        "id": 33,
+        "label": "car",
+        "speed": 50.0,
+        "frame": 683,
+        "overspeed": false
+      },
+      {
+        "id": 39,
+        "label": "car",
+        "speed": 72.0,
+        "frame": 709,
+        "overspeed": true
+      },
+      {
+        "id": 34,
+        "label": "bus",
+        "speed": 23.68,
+        "frame": 725,
+        "overspeed": false
+      },
+      {
+        "id": 42,
+        "label": "car",
+        "speed": 38.3,
+        "frame": 768,
+        "overspeed": false
+      },
+      {
+        "id": 46,
+        "label": "car",
+        "speed": 64.29,
+        "frame": 776,
+        "overspeed": true
+      },
+      {
+        "id": 47,
+        "label": "car",
+        "speed": 37.5,
+        "frame": 799,
+        "overspeed": false
+      },
+      {
+        "id": 48,
+        "label": "car",
+        "speed": 23.68,
+        "frame": 850,
+        "overspeed": false
+      },
+      {
+        "id": 54,
+        "label": "car",
+        "speed": 51.43,
+        "frame": 871,
+        "overspeed": false
+      },
+      {
+        "id": 61,
+        "label": "car",
+        "speed": 33.96,
+        "frame": 939,
+        "overspeed": false
+      },
+      {
+        "id": 65,
+        "label": "car",
+        "speed": 43.9,
+        "frame": 966,
+        "overspeed": false
+      },
+      {
+        "id": 69,
+        "label": "car",
+        "speed": 47.37,
+        "frame": 994,
+        "overspeed": false
+      },
+      {
+        "id": 73,
+        "label": "car",
+        "speed": 38.3,
+        "frame": 1044,
+        "overspeed": false
+      },
+      {
+        "id": 78,
+        "label": "car",
+        "speed": 34.62,
+        "frame": 1095,
+        "overspeed": false
+      },
+      {
+        "id": 56,
+        "label": "bus",
+        "speed": 6.9,
+        "frame": 1103,
+        "overspeed": false
+      },
+      {
+        "id": 85,
+        "label": "car",
+        "speed": 43.9,
+        "frame": 1114,
+        "overspeed": false
+      }
+    ]
+  },
+  {
+    "id": "f93b02b4-2565-45e8-9738-3251e09058e5",
+    "timestamp": "2025-11-14T01:14:53.671384",
+    "user": "user",
+    "original_filename": "WhatsApp_Video_2025-09-07_at_21.34.40_6b55cab1.mp4",
+    "input_video_path": "uploads\\c2a09cf2f40549408472d3b824785d30_WhatsApp_Video_2025-09-07_at_21.34.40_6b55cab1.mp4",
+    "output_video_path": "uploads\\processed_20251114_011208.mp4",
+    "download_name": "processed_20251114_011208.mp4",
+    "overspeed_limit": 60.0,
+    "distance_meters": 20.0,
+    "total_vehicles": 32,
+    "total_violations": 7,
+    "overspeed_summary": [
+      {
+        "id": 8,
+        "label": "car",
+        "speed": 75.0,
+        "frame": 49,
+        "overspeed": true
+      },
+      {
+        "id": 13,
+        "label": "car",
+        "speed": 62.07,
+        "frame": 89,
+        "overspeed": true
+      },
+      {
+        "id": 23,
+        "label": "car",
+        "speed": 64.29,
+        "frame": 175,
+        "overspeed": true
+      },
+      {
+        "id": 25,
+        "label": "car",
+        "speed": 66.67,
+        "frame": 212,
+        "overspeed": true
+      },
+      {
+        "id": 46,
+        "label": "car",
+        "speed": 66.67,
+        "frame": 399,
+        "overspeed": true
+      },
+      {
+        "id": 70,
+        "label": "car",
+        "speed": 72.0,
+        "frame": 709,
+        "overspeed": true
+      },
+      {
+        "id": 75,
+        "label": "car",
+        "speed": 64.29,
+        "frame": 776,
+        "overspeed": true
+      }
+    ],
+    "all_logs": [
+      {
+        "id": 8,
+        "label": "car",
+        "speed": 75.0,
+        "frame": 49,
+        "overspeed": true
+      },
+      {
+        "id": 13,
+        "label": "car",
+        "speed": 62.07,
+        "frame": 89,
+        "overspeed": true
+      },
+      {
+        "id": 23,
+        "label": "car",
+        "speed": 64.29,
+        "frame": 175,
+        "overspeed": true
+      },
+      {
+        "id": 24,
+        "label": "car",
+        "speed": 51.43,
+        "frame": 194,
+        "overspeed": false
+      },
+      {
+        "id": 25,
+        "label": "car",
+        "speed": 66.67,
+        "frame": 212,
+        "overspeed": true
+      },
+      {
+        "id": 36,
+        "label": "car",
+        "speed": 48.65,
+        "frame": 307,
+        "overspeed": false
+      },
+      {
+        "id": 40,
+        "label": "car",
+        "speed": 42.86,
+        "frame": 361,
+        "overspeed": false
+      },
+      {
+        "id": 46,
+        "label": "car",
+        "speed": 66.67,
+        "frame": 399,
+        "overspeed": true
+      },
+      {
+        "id": 42,
+        "label": "bus",
+        "speed": 26.09,
+        "frame": 403,
+        "overspeed": false
+      },
+      {
+        "id": 49,
+        "label": "car",
+        "speed": 35.29,
+        "frame": 454,
+        "overspeed": false
+      },
+      {
+        "id": 53,
+        "label": "car",
+        "speed": 45.0,
+        "frame": 480,
+        "overspeed": false
+      },
+      {
+        "id": 57,
+        "label": "car",
+        "speed": 47.37,
+        "frame": 502,
+        "overspeed": false
+      },
+      {
+        "id": 58,
+        "label": "car",
+        "speed": 40.0,
+        "frame": 533,
+        "overspeed": false
+      },
+      {
+        "id": 60,
+        "label": "car",
+        "speed": 39.13,
+        "frame": 543,
+        "overspeed": false
+      },
+      {
+        "id": 62,
+        "label": "car",
+        "speed": 40.91,
+        "frame": 565,
+        "overspeed": false
+      },
+      {
+        "id": 64,
+        "label": "car",
+        "speed": 41.86,
+        "frame": 583,
+        "overspeed": false
+      },
+      {
+        "id": 66,
+        "label": "car",
+        "speed": 35.29,
+        "frame": 668,
+        "overspeed": false
+      },
+      {
+        "id": 67,
+        "label": "car",
+        "speed": 50.0,
+        "frame": 683,
+        "overspeed": false
+      },
+      {
+        "id": 70,
+        "label": "car",
+        "speed": 72.0,
+        "frame": 709,
+        "overspeed": true
+      },
+      {
+        "id": 68,
+        "label": "bus",
+        "speed": 23.68,
+        "frame": 725,
+        "overspeed": false
+      },
+      {
+        "id": 72,
+        "label": "car",
+        "speed": 38.3,
+        "frame": 768,
+        "overspeed": false
+      },
+      {
+        "id": 75,
+        "label": "car",
+        "speed": 64.29,
+        "frame": 776,
+        "overspeed": true
+      },
+      {
+        "id": 76,
+        "label": "car",
+        "speed": 37.5,
+        "frame": 799,
+        "overspeed": false
+      },
+      {
+        "id": 77,
+        "label": "car",
+        "speed": 23.68,
+        "frame": 850,
+        "overspeed": false
+      },
+      {
+        "id": 78,
+        "label": "car",
+        "speed": 51.43,
+        "frame": 871,
+        "overspeed": false
+      },
+      {
+        "id": 82,
+        "label": "car",
+        "speed": 33.96,
+        "frame": 939,
+        "overspeed": false
+      },
+      {
+        "id": 85,
+        "label": "car",
+        "speed": 43.9,
+        "frame": 966,
+        "overspeed": false
+      },
+      {
+        "id": 88,
+        "label": "car",
+        "speed": 47.37,
+        "frame": 994,
+        "overspeed": false
+      },
+      {
+        "id": 90,
+        "label": "car",
+        "speed": 38.3,
+        "frame": 1044,
+        "overspeed": false
+      },
+      {
+        "id": 93,
+        "label": "car",
+        "speed": 34.62,
+        "frame": 1095,
+        "overspeed": false
+      },
+      {
+        "id": 80,
+        "label": "bus",
+        "speed": 6.9,
+        "frame": 1103,
+        "overspeed": false
+      },
+      {
+        "id": 97,
+        "label": "car",
+        "speed": 43.9,
+        "frame": 1114,
+        "overspeed": false
+      }
+    ]
+  },
+  {
+    "id": "35e4888c-3dfa-4dcc-891b-5d49d8e12ec6",
+    "timestamp": "2025-11-14T01:21:10.041661",
+    "user": "user",
+    "original_filename": "WhatsApp_Video_2025-09-07_at_21.34.40_6b55cab1.mp4",
+    "input_video_path": "uploads\\26dc6790cc704d35a9eb88fff70dfcdb_WhatsApp_Video_2025-09-07_at_21.34.40_6b55cab1.mp4",
+    "output_video_path": "uploads\\processed_20251114_011850.mp4",
+    "download_name": "processed_20251114_011850.mp4",
+    "overspeed_limit": 60.0,
+    "distance_meters": 20.0,
+    "total_vehicles": 32,
+    "total_violations": 7,
+    "overspeed_summary": [
+      {
+        "id": 6,
+        "label": "car",
+        "speed": 75.0,
+        "frame": 49,
+        "overspeed": true
+      },
+      {
+        "id": 9,
+        "label": "car",
+        "speed": 62.07,
+        "frame": 89,
+        "overspeed": true
+      },
+      {
+        "id": 12,
+        "label": "car",
+        "speed": 64.29,
+        "frame": 175,
+        "overspeed": true
+      },
+      {
+        "id": 14,
+        "label": "car",
+        "speed": 66.67,
+        "frame": 212,
+        "overspeed": true
+      },
+      {
+        "id": 20,
+        "label": "car",
+        "speed": 66.67,
+        "frame": 399,
+        "overspeed": true
+      },
+      {
+        "id": 35,
+        "label": "car",
+        "speed": 72.0,
+        "frame": 709,
+        "overspeed": true
+      },
+      {
+        "id": 40,
+        "label": "car",
+        "speed": 64.29,
+        "frame": 776,
+        "overspeed": true
+      }
+    ],
+    "all_logs": [
+      {
+        "id": 6,
+        "label": "car",
+        "speed": 75.0,
+        "frame": 49,
+        "overspeed": true
+      },
+      {
+        "id": 9,
+        "label": "car",
+        "speed": 62.07,
+        "frame": 89,
+        "overspeed": true
+      },
+      {
+        "id": 12,
+        "label": "car",
+        "speed": 64.29,
+        "frame": 175,
+        "overspeed": true
+      },
+      {
+        "id": 13,
+        "label": "car",
+        "speed": 51.43,
+        "frame": 194,
+        "overspeed": false
+      },
+      {
+        "id": 14,
+        "label": "car",
+        "speed": 66.67,
+        "frame": 212,
+        "overspeed": true
+      },
+      {
+        "id": 16,
+        "label": "car",
+        "speed": 48.65,
+        "frame": 307,
+        "overspeed": false
+      },
+      {
+        "id": 17,
+        "label": "car",
+        "speed": 42.86,
+        "frame": 361,
+        "overspeed": false
+      },
+      {
+        "id": 20,
+        "label": "car",
+        "speed": 66.67,
+        "frame": 399,
+        "overspeed": true
+      },
+      {
+        "id": 18,
+        "label": "bus",
+        "speed": 26.09,
+        "frame": 403,
+        "overspeed": false
+      },
+      {
+        "id": 21,
+        "label": "car",
+        "speed": 35.29,
+        "frame": 454,
+        "overspeed": false
+      },
+      {
+        "id": 22,
+        "label": "car",
+        "speed": 45.0,
+        "frame": 480,
+        "overspeed": false
+      },
+      {
+        "id": 24,
+        "label": "car",
+        "speed": 47.37,
+        "frame": 502,
+        "overspeed": false
+      },
+      {
+        "id": 25,
+        "label": "car",
+        "speed": 40.0,
+        "frame": 533,
+        "overspeed": false
+      },
+      {
+        "id": 26,
+        "label": "car",
+        "speed": 39.13,
+        "frame": 543,
+        "overspeed": false
+      },
+      {
+        "id": 27,
+        "label": "car",
+        "speed": 40.91,
+        "frame": 565,
+        "overspeed": false
+      },
+      {
+        "id": 29,
+        "label": "car",
+        "speed": 41.86,
+        "frame": 583,
+        "overspeed": false
+      },
+      {
+        "id": 31,
+        "label": "car",
+        "speed": 35.29,
+        "frame": 668,
+        "overspeed": false
+      },
+      {
+        "id": 32,
+        "label": "car",
+        "speed": 50.0,
+        "frame": 683,
+        "overspeed": false
+      },
+      {
+        "id": 35,
+        "label": "car",
+        "speed": 72.0,
+        "frame": 709,
+        "overspeed": true
+      },
+      {
+        "id": 33,
+        "label": "bus",
+        "speed": 23.68,
+        "frame": 725,
+        "overspeed": false
+      },
+      {
+        "id": 37,
+        "label": "car",
+        "speed": 38.3,
+        "frame": 768,
+        "overspeed": false
+      },
+      {
+        "id": 40,
+        "label": "car",
+        "speed": 64.29,
+        "frame": 776,
+        "overspeed": true
+      },
+      {
+        "id": 41,
+        "label": "car",
+        "speed": 37.5,
+        "frame": 799,
+        "overspeed": false
+      },
+      {
+        "id": 42,
+        "label": "car",
+        "speed": 23.68,
+        "frame": 850,
+        "overspeed": false
+      },
+      {
+        "id": 43,
+        "label": "car",
+        "speed": 51.43,
+        "frame": 871,
+        "overspeed": false
+      },
+      {
+        "id": 47,
+        "label": "car",
+        "speed": 33.96,
+        "frame": 939,
+        "overspeed": false
+      },
+      {
+        "id": 50,
+        "label": "car",
+        "speed": 43.9,
+        "frame": 966,
+        "overspeed": false
+      },
+      {
+        "id": 53,
+        "label": "car",
+        "speed": 47.37,
+        "frame": 994,
+        "overspeed": false
+      },
+      {
+        "id": 55,
+        "label": "car",
+        "speed": 38.3,
+        "frame": 1044,
+        "overspeed": false
+      },
+      {
+        "id": 58,
+        "label": "car",
+        "speed": 34.62,
+        "frame": 1095,
+        "overspeed": false
+      },
+      {
+        "id": 45,
+        "label": "bus",
+        "speed": 6.9,
+        "frame": 1103,
+        "overspeed": false
+      },
+      {
+        "id": 62,
+        "label": "car",
+        "speed": 43.9,
+        "frame": 1114,
+        "overspeed": false
+      }
+    ]
+  },
+  {
+    "id": "1fc5952b-4bd2-4ecd-82f6-c8f149a26a5c",
+    "timestamp": "2025-11-14T14:02:16.188552",
+    "user": "admin",
+    "original_filename": "WhatsApp_Video_2025-11-14_at_13.58.30_46040310.mp4",
+    "input_video_path": "uploads\\c1d44bd34d434dbbb68cf411ea152a2e_WhatsApp_Video_2025-11-14_at_13.58.30_46040310.mp4",
+    "output_video_path": "uploads\\processed_20251114_135950.mp4",
+    "download_name": "processed_20251114_135950.mp4",
+    "overspeed_limit": 60.0,
+    "distance_meters": 20.0,
+    "total_vehicles": 0,
+    "total_violations": 0,
+    "overspeed_summary": [],
+    "all_logs": []
+  },
+  {
+    "id": "38179594-f8ae-4af5-a22d-ac236b957809",
+    "timestamp": "2025-11-14T14:51:01.324459",
+    "user": "admin",
+    "original_filename": "WhatsApp_Video_2025-09-07_at_21.34.40_6b55cab1.mp4",
+    "input_video_path": "uploads\\611a9abcade04fbcb3f0da4c482daa65_WhatsApp_Video_2025-09-07_at_21.34.40_6b55cab1.mp4",
+    "output_video_path": "uploads\\processed_20251114_144440.mp4",
+    "download_name": "processed_20251114_144440.mp4",
+    "overspeed_limit": 60.0,
+    "distance_meters": 20.0,
+    "total_vehicles": 32,
+    "total_violations": 7,
+    "overspeed_summary": [
+      {
+        "id": 6,
+        "label": "car",
+        "speed": 75.0,
+        "frame": 49,
+        "overspeed": true
+      },
+      {
+        "id": 9,
+        "label": "car",
+        "speed": 62.07,
+        "frame": 89,
+        "overspeed": true
+      },
+      {
+        "id": 12,
+        "label": "car",
+        "speed": 64.29,
+        "frame": 175,
+        "overspeed": true
+      },
+      {
+        "id": 14,
+        "label": "car",
+        "speed": 66.67,
+        "frame": 212,
+        "overspeed": true
+      },
+      {
+        "id": 20,
+        "label": "car",
+        "speed": 66.67,
+        "frame": 399,
+        "overspeed": true
+      },
+      {
+        "id": 35,
+        "label": "car",
+        "speed": 72.0,
+        "frame": 709,
+        "overspeed": true
+      },
+      {
+        "id": 40,
+        "label": "car",
+        "speed": 64.29,
+        "frame": 776,
+        "overspeed": true
+      }
+    ],
+    "all_logs": [
+      {
+        "id": 6,
+        "label": "car",
+        "speed": 75.0,
+        "frame": 49,
+        "overspeed": true
+      },
+      {
+        "id": 9,
+        "label": "car",
+        "speed": 62.07,
+        "frame": 89,
+        "overspeed": true
+      },
+      {
+        "id": 12,
+        "label": "car",
+        "speed": 64.29,
+        "frame": 175,
+        "overspeed": true
+      },
+      {
+        "id": 13,
+        "label": "car",
+        "speed": 51.43,
+        "frame": 194,
+        "overspeed": false
+      },
+      {
+        "id": 14,
+        "label": "car",
+        "speed": 66.67,
+        "frame": 212,
+        "overspeed": true
+      },
+      {
+        "id": 16,
+        "label": "car",
+        "speed": 48.65,
+        "frame": 307,
+        "overspeed": false
+      },
+      {
+        "id": 17,
+        "label": "car",
+        "speed": 42.86,
+        "frame": 361,
+        "overspeed": false
+      },
+      {
+        "id": 20,
+        "label": "car",
+        "speed": 66.67,
+        "frame": 399,
+        "overspeed": true
+      },
+      {
+        "id": 18,
+        "label": "bus",
+        "speed": 26.09,
+        "frame": 403,
+        "overspeed": false
+      },
+      {
+        "id": 21,
+        "label": "car",
+        "speed": 35.29,
+        "frame": 454,
+        "overspeed": false
+      },
+      {
+        "id": 22,
+        "label": "car",
+        "speed": 45.0,
+        "frame": 480,
+        "overspeed": false
+      },
+      {
+        "id": 24,
+        "label": "car",
+        "speed": 47.37,
+        "frame": 502,
+        "overspeed": false
+      },
+      {
+        "id": 25,
+        "label": "car",
+        "speed": 40.0,
+        "frame": 533,
+        "overspeed": false
+      },
+      {
+        "id": 26,
+        "label": "car",
+        "speed": 39.13,
+        "frame": 543,
+        "overspeed": false
+      },
+      {
+        "id": 27,
+        "label": "car",
+        "speed": 40.91,
+        "frame": 565,
+        "overspeed": false
+      },
+      {
+        "id": 29,
+        "label": "car",
+        "speed": 41.86,
+        "frame": 583,
+        "overspeed": false
+      },
+      {
+        "id": 31,
+        "label": "car",
+        "speed": 35.29,
+        "frame": 668,
+        "overspeed": false
+      },
+      {
+        "id": 32,
+        "label": "car",
+        "speed": 50.0,
+        "frame": 683,
+        "overspeed": false
+      },
+      {
+        "id": 35,
+        "label": "car",
+        "speed": 72.0,
+        "frame": 709,
+        "overspeed": true
+      },
+      {
+        "id": 33,
+        "label": "bus",
+        "speed": 23.68,
+        "frame": 725,
+        "overspeed": false
+      },
+      {
+        "id": 37,
+        "label": "car",
+        "speed": 38.3,
+        "frame": 768,
+        "overspeed": false
+      },
+      {
+        "id": 40,
+        "label": "car",
+        "speed": 64.29,
+        "frame": 776,
+        "overspeed": true
+      },
+      {
+        "id": 41,
+        "label": "car",
+        "speed": 37.5,
+        "frame": 799,
+        "overspeed": false
+      },
+      {
+        "id": 42,
+        "label": "car",
+        "speed": 23.68,
+        "frame": 850,
+        "overspeed": false
+      },
+      {
+        "id": 43,
+        "label": "car",
+        "speed": 51.43,
+        "frame": 871,
+        "overspeed": false
+      },
+      {
+        "id": 47,
+        "label": "car",
+        "speed": 33.96,
+        "frame": 939,
+        "overspeed": false
+      },
+      {
+        "id": 50,
+        "label": "car",
+        "speed": 43.9,
+        "frame": 966,
+        "overspeed": false
+      },
+      {
+        "id": 53,
+        "label": "car",
+        "speed": 47.37,
+        "frame": 994,
+        "overspeed": false
+      },
+      {
+        "id": 55,
+        "label": "car",
+        "speed": 38.3,
+        "frame": 1044,
+        "overspeed": false
+      },
+      {
+        "id": 58,
+        "label": "car",
+        "speed": 34.62,
+        "frame": 1095,
+        "overspeed": false
+      },
+      {
+        "id": 45,
+        "label": "bus",
+        "speed": 6.9,
+        "frame": 1103,
+        "overspeed": false
+      },
+      {
+        "id": 62,
+        "label": "car",
+        "speed": 43.9,
+        "frame": 1114,
+        "overspeed": false
+      }
+    ]
+  },
+  {
+    "id": "45648064-323e-4541-a7cd-b9ac885275f5",
+    "timestamp": "2025-11-14T19:31:10.595833",
+    "user": "admin",
+    "original_filename": "WhatsApp_Video_2025-09-07_at_21.34.40_6b55cab1.mp4",
+    "input_video_path": "uploads\\01f9c3019cdf401fb3c50206049a1c2b_WhatsApp_Video_2025-09-07_at_21.34.40_6b55cab1.mp4",
+    "output_video_path": "uploads\\processed_20251114_192833.mp4",
+    "download_name": "processed_20251114_192833.mp4",
+    "overspeed_limit": 60.0,
+    "distance_meters": 20.0,
+    "total_vehicles": 32,
+    "total_violations": 7,
+    "overspeed_summary": [
+      {
+        "id": 6,
+        "label": "car",
+        "speed": 75.0,
+        "frame": 49,
+        "overspeed": true
+      },
+      {
+        "id": 9,
+        "label": "car",
+        "speed": 62.07,
+        "frame": 89,
+        "overspeed": true
+      },
+      {
+        "id": 12,
+        "label": "car",
+        "speed": 64.29,
+        "frame": 175,
+        "overspeed": true
+      },
+      {
+        "id": 14,
+        "label": "car",
+        "speed": 66.67,
+        "frame": 212,
+        "overspeed": true
+      },
+      {
+        "id": 20,
+        "label": "car",
+        "speed": 66.67,
+        "frame": 399,
+        "overspeed": true
+      },
+      {
+        "id": 35,
+        "label": "car",
+        "speed": 72.0,
+        "frame": 709,
+        "overspeed": true
+      },
+      {
+        "id": 40,
+        "label": "car",
+        "speed": 64.29,
+        "frame": 776,
+        "overspeed": true
+      }
+    ],
+    "all_logs": [
+      {
+        "id": 6,
+        "label": "car",
+        "speed": 75.0,
+        "frame": 49,
+        "overspeed": true
+      },
+      {
+        "id": 9,
+        "label": "car",
+        "speed": 62.07,
+        "frame": 89,
+        "overspeed": true
+      },
+      {
+        "id": 12,
+        "label": "car",
+        "speed": 64.29,
+        "frame": 175,
+        "overspeed": true
+      },
+      {
+        "id": 13,
+        "label": "car",
+        "speed": 51.43,
+        "frame": 194,
+        "overspeed": false
+      },
+      {
+        "id": 14,
+        "label": "car",
+        "speed": 66.67,
+        "frame": 212,
+        "overspeed": true
+      },
+      {
+        "id": 16,
+        "label": "car",
+        "speed": 48.65,
+        "frame": 307,
+        "overspeed": false
+      },
+      {
+        "id": 17,
+        "label": "car",
+        "speed": 42.86,
+        "frame": 361,
+        "overspeed": false
+      },
+      {
+        "id": 20,
+        "label": "car",
+        "speed": 66.67,
+        "frame": 399,
+        "overspeed": true
+      },
+      {
+        "id": 18,
+        "label": "bus",
+        "speed": 26.09,
+        "frame": 403,
+        "overspeed": false
+      },
+      {
+        "id": 21,
+        "label": "car",
+        "speed": 35.29,
+        "frame": 454,
+        "overspeed": false
+      },
+      {
+        "id": 22,
+        "label": "car",
+        "speed": 45.0,
+        "frame": 480,
+        "overspeed": false
+      },
+      {
+        "id": 24,
+        "label": "car",
+        "speed": 47.37,
+        "frame": 502,
+        "overspeed": false
+      },
+      {
+        "id": 25,
+        "label": "car",
+        "speed": 40.0,
+        "frame": 533,
+        "overspeed": false
+      },
+      {
+        "id": 26,
+        "label": "car",
+        "speed": 39.13,
+        "frame": 543,
+        "overspeed": false
+      },
+      {
+        "id": 27,
+        "label": "car",
+        "speed": 40.91,
+        "frame": 565,
+        "overspeed": false
+      },
+      {
+        "id": 29,
+        "label": "car",
+        "speed": 41.86,
+        "frame": 583,
+        "overspeed": false
+      },
+      {
+        "id": 31,
+        "label": "car",
+        "speed": 35.29,
+        "frame": 668,
+        "overspeed": false
+      },
+      {
+        "id": 32,
+        "label": "car",
+        "speed": 50.0,
+        "frame": 683,
+        "overspeed": false
+      },
+      {
+        "id": 35,
+        "label": "car",
+        "speed": 72.0,
+        "frame": 709,
+        "overspeed": true
+      },
+      {
+        "id": 33,
+        "label": "bus",
+        "speed": 23.68,
+        "frame": 725,
+        "overspeed": false
+      },
+      {
+        "id": 37,
+        "label": "car",
+        "speed": 38.3,
+        "frame": 768,
+        "overspeed": false
+      },
+      {
+        "id": 40,
+        "label": "car",
+        "speed": 64.29,
+        "frame": 776,
+        "overspeed": true
+      },
+      {
+        "id": 41,
+        "label": "car",
+        "speed": 37.5,
+        "frame": 799,
+        "overspeed": false
+      },
+      {
+        "id": 42,
+        "label": "car",
+        "speed": 23.68,
+        "frame": 850,
+        "overspeed": false
+      },
+      {
+        "id": 43,
+        "label": "car",
+        "speed": 51.43,
+        "frame": 871,
+        "overspeed": false
+      },
+      {
+        "id": 47,
+        "label": "car",
+        "speed": 33.96,
+        "frame": 939,
+        "overspeed": false
+      },
+      {
+        "id": 50,
+        "label": "car",
+        "speed": 43.9,
+        "frame": 966,
+        "overspeed": false
+      },
+      {
+        "id": 53,
+        "label": "car",
+        "speed": 47.37,
+        "frame": 994,
+        "overspeed": false
+      },
+      {
+        "id": 55,
+        "label": "car",
+        "speed": 38.3,
+        "frame": 1044,
+        "overspeed": false
+      },
+      {
+        "id": 58,
+        "label": "car",
+        "speed": 34.62,
+        "frame": 1095,
+        "overspeed": false
+      },
+      {
+        "id": 45,
+        "label": "bus",
+        "speed": 6.9,
+        "frame": 1103,
+        "overspeed": false
+      },
+      {
+        "id": 62,
+        "label": "car",
+        "speed": 43.9,
+        "frame": 1114,
+        "overspeed": false
+      }
+    ]
+  },
+  {
+    "id": "9b5c39cb-e6d2-41fe-89eb-ac0b44fb8aec",
+    "timestamp": "2025-11-14T19:46:40.822562",
+    "user": "admin",
+    "original_filename": "WhatsApp_Video_2025-09-07_at_21.34.40_6b55cab1.mp4",
+    "input_video_path": "uploads\\7f2010d8352d40f7905aea95ccbb7255_WhatsApp_Video_2025-09-07_at_21.34.40_6b55cab1.mp4",
+    "output_video_path": "uploads\\processed_20251114_194431.mp4",
+    "download_name": "processed_20251114_194431.mp4",
+    "overspeed_limit": 60.0,
+    "distance_meters": 20.0,
+    "total_vehicles": 32,
+    "total_violations": 7,
+    "overspeed_summary": [
+      {
+        "id": 6,
+        "label": "car",
+        "speed": 75.0,
+        "frame": 49,
+        "overspeed": true
+      },
+      {
+        "id": 9,
+        "label": "car",
+        "speed": 62.07,
+        "frame": 89,
+        "overspeed": true
+      },
+      {
+        "id": 12,
+        "label": "car",
+        "speed": 64.29,
+        "frame": 175,
+        "overspeed": true
+      },
+      {
+        "id": 14,
+        "label": "car",
+        "speed": 66.67,
+        "frame": 212,
+        "overspeed": true
+      },
+      {
+        "id": 20,
+        "label": "car",
+        "speed": 66.67,
+        "frame": 399,
+        "overspeed": true
+      },
+      {
+        "id": 35,
+        "label": "car",
+        "speed": 72.0,
+        "frame": 709,
+        "overspeed": true
+      },
+      {
+        "id": 40,
+        "label": "car",
+        "speed": 64.29,
+        "frame": 776,
+        "overspeed": true
+      }
+    ],
+    "all_logs": [
+      {
+        "id": 6,
+        "label": "car",
+        "speed": 75.0,
+        "frame": 49,
+        "overspeed": true
+      },
+      {
+        "id": 9,
+        "label": "car",
+        "speed": 62.07,
+        "frame": 89,
+        "overspeed": true
+      },
+      {
+        "id": 12,
+        "label": "car",
+        "speed": 64.29,
+        "frame": 175,
+        "overspeed": true
+      },
+      {
+        "id": 13,
+        "label": "car",
+        "speed": 51.43,
+        "frame": 194,
+        "overspeed": false
+      },
+      {
+        "id": 14,
+        "label": "car",
+        "speed": 66.67,
+        "frame": 212,
+        "overspeed": true
+      },
+      {
+        "id": 16,
+        "label": "car",
+        "speed": 48.65,
+        "frame": 307,
+        "overspeed": false
+      },
+      {
+        "id": 17,
+        "label": "car",
+        "speed": 42.86,
+        "frame": 361,
+        "overspeed": false
+      },
+      {
+        "id": 20,
+        "label": "car",
+        "speed": 66.67,
+        "frame": 399,
+        "overspeed": true
+      },
+      {
+        "id": 18,
+        "label": "bus",
+        "speed": 26.09,
+        "frame": 403,
+        "overspeed": false
+      },
+      {
+        "id": 21,
+        "label": "car",
+        "speed": 35.29,
+        "frame": 454,
+        "overspeed": false
+      },
+      {
+        "id": 22,
+        "label": "car",
+        "speed": 45.0,
+        "frame": 480,
+        "overspeed": false
+      },
+      {
+        "id": 24,
+        "label": "car",
+        "speed": 47.37,
+        "frame": 502,
+        "overspeed": false
+      },
+      {
+        "id": 25,
+        "label": "car",
+        "speed": 40.0,
+        "frame": 533,
+        "overspeed": false
+      },
+      {
+        "id": 26,
+        "label": "car",
+        "speed": 39.13,
+        "frame": 543,
+        "overspeed": false
+      },
+      {
+        "id": 27,
+        "label": "car",
+        "speed": 40.91,
+        "frame": 565,
+        "overspeed": false
+      },
+      {
+        "id": 29,
+        "label": "car",
+        "speed": 41.86,
+        "frame": 583,
+        "overspeed": false
+      },
+      {
+        "id": 31,
+        "label": "car",
+        "speed": 35.29,
+        "frame": 668,
+        "overspeed": false
+      },
+      {
+        "id": 32,
+        "label": "car",
+        "speed": 50.0,
+        "frame": 683,
+        "overspeed": false
+      },
+      {
+        "id": 35,
+        "label": "car",
+        "speed": 72.0,
+        "frame": 709,
+        "overspeed": true
+      },
+      {
+        "id": 33,
+        "label": "bus",
+        "speed": 23.68,
+        "frame": 725,
+        "overspeed": false
+      },
+      {
+        "id": 37,
+        "label": "car",
+        "speed": 38.3,
+        "frame": 768,
+        "overspeed": false
+      },
+      {
+        "id": 40,
+        "label": "car",
+        "speed": 64.29,
+        "frame": 776,
+        "overspeed": true
+      },
+      {
+        "id": 41,
+        "label": "car",
+        "speed": 37.5,
+        "frame": 799,
+        "overspeed": false
+      },
+      {
+        "id": 42,
+        "label": "car",
+        "speed": 23.68,
+        "frame": 850,
+        "overspeed": false
+      },
+      {
+        "id": 43,
+        "label": "car",
+        "speed": 51.43,
+        "frame": 871,
+        "overspeed": false
+      },
+      {
+        "id": 47,
+        "label": "car",
+        "speed": 33.96,
+        "frame": 939,
+        "overspeed": false
+      },
+      {
+        "id": 50,
+        "label": "car",
+        "speed": 43.9,
+        "frame": 966,
+        "overspeed": false
+      },
+      {
+        "id": 53,
+        "label": "car",
+        "speed": 47.37,
+        "frame": 994,
+        "overspeed": false
+      },
+      {
+        "id": 55,
+        "label": "car",
+        "speed": 38.3,
+        "frame": 1044,
+        "overspeed": false
+      },
+      {
+        "id": 58,
+        "label": "car",
+        "speed": 34.62,
+        "frame": 1095,
+        "overspeed": false
+      },
+      {
+        "id": 45,
+        "label": "bus",
+        "speed": 6.9,
+        "frame": 1103,
+        "overspeed": false
+      },
+      {
+        "id": 62,
+        "label": "car",
+        "speed": 43.9,
+        "frame": 1114,
+        "overspeed": false
+      }
+    ]
+  }
+]
